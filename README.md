@@ -4,4 +4,4 @@
 
 ## Screenshot
 
-![screenshot](https://github.com/jafar-pathan/hacker-terminal-theme/blob/main/) 
+![screenshot](https://github.com/jafar-pathan/hacker-terminal-theme/blob/main/2022-09-12_10-55.png?raw=true) 
